@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="240" src="https://cdn.discordapp.com/attachments/1149851899848306748/1154103863083794512/baniu.png"  />
+  <img height="100%" src="https://cdn.discordapp.com/attachments/1149851899848306748/1154103863083794512/baniu.png"  />
 </div>
 
 ###
