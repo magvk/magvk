@@ -1,18 +1,8 @@
-<div align="center">
-  <img height="100%" src="https://cdn.discordapp.com/attachments/1149851899848306748/1154103863083794512/baniu.png"  />
-</div>
 
 ###
 
 <h1 align="center">Welcome to my official profile !</h1>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">My name is Guilherme, better known as MAG, I'm 20 years old and I live in Rio de Janeiro, Brazil<br>Graphic designer with years of experience and currently coding student.</p>
 
 ###
 
